@@ -1,57 +1,59 @@
-# PUI89
+# PUI89 — Evidence-Led AI & Robotics Engineering
 
-**Evidence-led AI, intelligent systems, and robotics research.**
+**Intelligent systems. Verifiable decisions. Safer outcomes.**
 
-PUI89 is an independent research and engineering initiative exploring practical AI systems across agriculture, disaster response, multimodal screening, home safety, and intelligent mobility.
+PUI89 is an independent AI and robotics research initiative based in Thailand. It develops software foundations, applied AI experiments and robotics concepts across agriculture, disaster response, multimodal inspection, home safety and intelligent mobility.
 
-The work is guided by three principles:
+🌐 **Official portfolio:** https://pui89.github.io/  
+🇹🇭 **Thai portfolio:** https://pui89.github.io/th.html  
+🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
+🧠 **Shared AI Core overview:** https://pui89.github.io/ai-core.html  
+📚 **GitHub projects:** https://github.com/Pui89
 
-- **Evidence first** — distinguish verified results, current implementation, and proposed concepts.
-- **Safety and security by design** — make uncertainty, failure modes, human oversight, and recovery part of system design.
-- **Research into engineering** — build reusable foundations, measurable evaluations, and practical prototypes step by step.
+## What PUI89 works on
 
-🌐 **Website:** [pui89.github.io](https://pui89.github.io/)  
-💻 **GitHub:** [github.com/Pui89](https://github.com/Pui89)
+- **Applied AI and computer vision** — visual perception, classification, anomaly and scene understanding.
+- **Multimodal intelligence** — combining evidence from different data and sensor modalities while tracking provenance and uncertainty.
+- **Robotics and autonomy research** — simulation-first perception, world-state reasoning, planning interfaces and safety gates.
+- **Disaster and environmental intelligence** — flood awareness, terrain and spatial evidence, and rescue decision support.
+- **Intelligent mobility and home safety** — software-first concepts with explicit engineering and validation boundaries.
 
----
+## Seven-project portfolio
 
-## Focus areas
+| Project | Focus | Project page |
+|---|---|---|
+| [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | Agricultural AI, coconut maturity assessment and harvesting-robot research concept | [Website](https://pui89.github.io/coconut.html) |
+| [Extreme Flood Rescue AI](https://github.com/Pui89/Extreme-Flood-Rescue-AI) | Flood situational awareness, terrain evidence and amphibious rescue-robot concept | [Website](https://pui89.github.io/flood-rescue.html) |
+| [Multimodal Narcotics Screening AI](https://github.com/Pui89/Multimodal-Narcotics-Screening-AI) | Multimodal screening research, evidence provenance and human review | [Website](https://pui89.github.io/screening.html) |
+| [AI HOME — Home Safety](https://github.com/Pui89/AI-Home-Safety-Robot) | Home-condition awareness and safety-assistance software/robotics concept | [Website](https://pui89.github.io/home.html) |
+| [AI NOMAD — Mobile Assistant](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Compact mobile-assistant and travel-robot concept | [Website](https://pui89.github.io/nomad.html) |
+| [AI Autonomous Robot Car](https://github.com/Pui89/AI-Autonomous-Robot-Car) | Intelligent vehicle perception, safety and mobility research | [Website](https://pui89.github.io/ai-robot-car.html) |
+| [AI Motorcycle Robotics — EasyRide](https://github.com/Pui89/AI-Motorcycle-Robotics) | AI-assisted step-through mobility and road/flood safety research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
 
-- Applied AI and machine learning
-- Multimodal perception and evidence assessment
-- Agentic systems and decision-support workflows
-- Robotics concepts, simulation-first development, and safety interfaces
-- Resilient intelligent systems for real-world environments
+## Shared engineering approach
 
-## Featured projects
+PUI89 is building a reusable Shared AI Core direction across the portfolio:
 
-| Project | Research direction |
-|---|---|
-| [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | AI-assisted coconut maturity assessment and a safer harvesting-robot concept. |
-| [Extreme Flood Rescue AI](https://github.com/Pui89/Extreme-Flood-Rescue-AI) | AI-supported flood situational awareness and amphibious search-and-rescue robotics concepts. |
-| [Multimodal Narcotics Screening AI](https://github.com/Pui89/Multimodal-Narcotics-Screening-AI) | Multimodal screening research with evidence provenance, uncertainty, and human review. |
-| [AI Home Safety Robot](https://github.com/Pui89/AI-Home-Safety-Robot) | Home-environment monitoring and safety-assistance research. |
-| [AI Mobile Assistant Robot](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Mobile robotic assistance and intelligent interaction concepts. |
-| [AI Autonomous Robot Car](https://github.com/Pui89/AI-Autonomous-Robot-Car) | Autonomous mobility research and system concepts. |
-| [AI Motorcycle Robotics](https://github.com/Pui89/AI-Motorcycle-Robotics) | AI-assisted motorcycle and mobility-safety research. |
+- **Common contracts:** Observation, WorldState, ActionProposal and FailureReport.
+- **Evidence integrity:** source provenance, timestamps, hashes, calibration status and traceable evaluations.
+- **Uncertainty-aware reasoning:** missing, noisy, stale and conflicting observations remain visible.
+- **Safety by design:** bounded proposals, safe-state logic and human approval for critical actions.
+- **Reproducible engineering:** dependency-aware tests, benchmark records, security controls and recovery planning.
 
-> These repositories represent a mix of software, research, and design-stage work. A concept or planned capability is not presented as a validated or deployment-ready system. Project documentation and test evidence define the current status of each capability.
+The public [Shared AI Core overview](https://pui89.github.io/ai-core.html) explains the common direction. Project-specific implementations and their actual maturity are documented in each repository.
 
-## Shared engineering direction
+## Evidence and development status
 
-PUI89 is developing reusable foundations intended to support projects consistently:
+PUI89 distinguishes **implemented software**, **tests actually run**, **synthetic or simulated evaluations**, **proposed designs**, and **validated physical performance**. A passing software test does not establish real-world model accuracy, robot capability, safety certification or commercial readiness. Concepts and engineering targets are labelled accordingly.
 
-- **Shared AI Core:** common data contracts, observation and world-state handling, action proposals, uncertainty, evaluation, and failure reporting.
-- **Security and repository protection:** secure development practices, dependency and change review, access controls, and recoverability.
-- **Evidence and evaluation:** reproducible tests, benchmark records, provenance, calibration, and explicit limitations.
-- **Human oversight:** safety-critical or destructive actions require appropriate human review and approval.
+The portfolio is developed with an open-source-first, cost-conscious approach. Third-party code, models, datasets and checkpoints require separate licence, provenance, security and resource checks before adoption.
 
 ## Collaboration
 
-Open to constructive collaboration in applied AI, multimodal systems, robotics, simulation, safety engineering, and evidence-based evaluation.
+PUI89 welcomes constructive research and engineering collaboration in applied AI, computer vision, multimodal systems, robotics, simulation, safety engineering and evidence-based evaluation.
 
-When contributing, please use the repository's contribution guidance and keep changes reviewable, documented, and testable.
+Start with the [official website](https://pui89.github.io/) or the relevant project repository. Please keep contributions documented, reviewable and testable.
 
 ---
 
-<sub>Independent initiative · Research and development · Evidence-led · Safety-conscious</sub>
+<sub>Independent research and engineering initiative · Thailand · Evidence-led · Safety-conscious · Open-source-first</sub>
