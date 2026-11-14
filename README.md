@@ -29,7 +29,7 @@ Cross-project engineering priorities include evidence traceability, uncertainty-
 |---|---|---|
 | [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | Coconut maturity assessment, visual perception and harvesting-robot research | [Website](https://pui89.github.io/coconut.html) |
 | [Extreme Flood Rescue AI](https://github.com/Pui89/Extreme-Flood-Rescue-AI) | Flood situational awareness, terrain evidence and rescue-robot research | [Website](https://pui89.github.io/flood-rescue.html) |
-| [Multimodal Narcotics Screening AI](https://github.com/Pui89/Multimodal-Narcotics-Screening-AI) | Multimodal screening research, evidence provenance and human review | [Website](https://pui89.github.io/screening.html) |
+| [PUI89 Sentinel — All-Terrain Inspection Robot Dog](https://github.com/Pui89/All-Terrain-Inspection-Robot) | Four-legged mobile inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
 | [AI HOME — Home Safety](https://github.com/Pui89/AI-Home-Safety-Robot) | Home-condition awareness and safety-assistance software/robotics concept | [Website](https://pui89.github.io/home.html) |
 | [AI NOMAD — Mobile Assistant](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Compact mobile-assistant and outdoor mobility concept | [Website](https://pui89.github.io/nomad.html) |
 | [AI Robot Car](https://github.com/Pui89/AI-Autonomous-Robot-Car) | Vehicle perception, mobility context and safety-assistance research | [Website](https://pui89.github.io/ai-robot-car.html) |
