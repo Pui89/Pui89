@@ -32,7 +32,7 @@ Cross-project engineering priorities include evidence traceability, uncertainty-
 | [PUI89 Sentinel — All-Terrain Inspection Robot Dog](https://github.com/Pui89/All-Terrain-Inspection-Robot) | Four-legged mobile inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
 | [AI HOME — Home Safety](https://github.com/Pui89/AI-Home-Safety-Robot) | Home-condition awareness and safety-assistance software/robotics concept | [Website](https://pui89.github.io/home.html) |
 | [AI NOMAD — Mobile Assistant](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Compact mobile-assistant and outdoor mobility concept | [Website](https://pui89.github.io/nomad.html) |
-| [AI Robot Car](https://github.com/Pui89/AI-Autonomous-Robot-Car) | Vehicle perception, mobility context and safety-assistance research | [Website](https://pui89.github.io/ai-robot-car.html) |
+| [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | Medium-size global SUV concept; HEV-first evaluation with powertrain-neutral, advisory-only AI software | [Website](https://pui89.github.io/ai-global-suv.html) |
 | [EasyRide AI Step-Through Scooter](https://github.com/Pui89/AI-Motorcycle-Robotics) | AI-assisted step-through mobility and road/flood safety research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
 
 ## Engineering roadmap
