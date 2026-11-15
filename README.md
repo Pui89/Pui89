@@ -77,3 +77,10 @@ Contributions should be documented, reviewable and testable. No contribution sho
 ---
 
 <sub>Independent research and engineering initiative · Thailand · Evidence-led · Safety-conscious · Open-source-first</sub>
+
+## PUI89 AI 2030 Vision
+
+PUI89's strategic direction is **From Intelligent Software to Physical AI Products**: an evidence-led Industrial AI & Physical AI Platform connecting bounded AI agents, multimodal Perception & Task Intelligence, the Shared AI Core, simulation, efficient edge computing and human-supervised products. The vision maps priorities and validation boundaries across all seven products. It is a proposed roadmap—not a claim of completed autonomy, deployed robots, certification or commercial availability.
+
+- [Bilingual PUI89 AI 2030 Vision](https://pui89.github.io/ai-2030-vision.html)
+- [Engineering roadmap and evidence gates](https://github.com/Pui89/PUI89-Shared-AI-Core/blob/main/docs/strategy/PUI89_AI_2030_VISION_AND_IMPLEMENTATION_ROADMAP_V1.0.md)
