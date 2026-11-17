@@ -36,6 +36,22 @@ Cross-project engineering priorities include evidence traceability, uncertainty-
 
 **Portfolio boundary:** PUI89 currently presents six active products. Extreme Flood Rescue AI is not part of the active product portfolio; its repository and historical engineering record are retained separately as an archived project. Shared AI Core supports the products and is not counted as another product.
 
+## PUI89 platform direction — software-first Industrial AI
+
+PUI89's long-term direction is an **Industrial AI Platform** built from reusable software and engineering capabilities. The focus is to make AI systems work reliably within real product constraints—not to manufacture semiconductor chips or claim that every proposed platform capability is already implemented.
+
+Shared engineering themes include:
+
+- **Perception & Task Intelligence (PTI):** a traceable observe → perceive → assess → decide → respond workflow, with explicit uncertainty, abstention and human review.
+- **General multimodal intelligence:** combine authorised visual, audio, text, spatial, map and time-series evidence while preserving source, timestamp, quality and modality-specific limits.
+- **Heterogeneous compute intelligence:** research efficient task placement across CPU, GPU, NPU and MCU resources, memory, sensors and power constraints; evaluate model sizing, quantisation, scheduling, edge inference and safe fallback.
+- **Simulation & digital-twin engineering:** use staged process, routing and robotics simulation to test assumptions before controlled prototypes; simulation is not physical validation.
+- **Safety, security and recovery:** keep AI proposals separate from independent safety controls; use least privilege, traceable changes, fault reporting, recovery evidence and human approval for consequential actions.
+- **Hardware and materials engineering:** record exact component identity, compatibility, manufacturer, origin evidence, supplier, dated cost and lead time before procurement decisions.
+- **Open-source-first technology governance:** review provenance, licensing, security, privacy, resource needs and maintainability before adopting external code, models or datasets.
+
+These are shared engineering priorities. Each product adopts only the capabilities relevant to its mission, and implementation or validation is claimed only when supported by repository evidence and reproducible tests.
+
 ## Engineering roadmap
 
 Work is intended to progress through evidence gates rather than unsupported completion percentages:
