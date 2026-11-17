@@ -2,7 +2,7 @@
 
 **Intelligent systems. Verifiable decisions. Safer outcomes.**
 
-PUI89 is an independent AI and robotics research initiative based in Thailand. It develops software foundations, applied AI experiments and robotics concepts across agriculture, disaster response, multimodal inspection, home safety and intelligent mobility.
+PUI89 is an independent AI and robotics research initiative based in Thailand. It develops software foundations, applied AI experiments and robotics concepts across agriculture, multimodal inspection, home assistance, mobile assistance and intelligent mobility.
 
 🌐 **Official portfolio:** https://pui89.github.io/  
 🇹🇭 **Thai portfolio:** https://pui89.github.io/th.html  
@@ -12,7 +12,7 @@ PUI89 is an independent AI and robotics research initiative based in Thailand. I
 
 ## Platform architecture: Shared AI Core
 
-The **Shared AI Core is PUI89's cross-project engineering platform, not an eighth product**. Its purpose is to establish reusable interfaces and safety/evidence practices that individual projects can adopt as they mature.
+The **Shared AI Core is PUI89's cross-project engineering platform, not a standalone product**. Its purpose is to establish reusable interfaces and safety/evidence practices that individual products can adopt as they mature.
 
 The architecture is organized around four common contracts:
 
@@ -23,17 +23,18 @@ The architecture is organized around four common contracts:
 
 Cross-project engineering priorities include evidence traceability, uncertainty-aware reasoning, explicit abstention, safe-hold behavior, fault injection, reproducible tests and human approval for critical actions. These are design and implementation priorities; each repository documents what is actually implemented and tested.
 
-## Seven-project portfolio
+## Six-product portfolio
 
-| Project | Focus | Project page |
+| Product | Focus | Project page |
 |---|---|---|
 | [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | Coconut maturity assessment, visual perception and harvesting-robot research | [Website](https://pui89.github.io/coconut.html) |
-| [Extreme Flood Rescue AI](https://github.com/Pui89/Extreme-Flood-Rescue-AI) | Flood situational awareness, terrain evidence and rescue-robot research | [Website](https://pui89.github.io/flood-rescue.html) |
-| [PUI89 Sentinel — All-Terrain Inspection Robot Dog](https://github.com/Pui89/All-Terrain-Inspection-Robot) | Four-legged mobile inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
-| [AI HOME — Home Safety](https://github.com/Pui89/AI-Home-Safety-Robot) | Home-condition awareness and safety-assistance software/robotics concept | [Website](https://pui89.github.io/home.html) |
-| [AI NOMAD — Carry-on Suitcase-Style Mobile AI Assistant](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Upright luggage body, telescopic pull handle and four spinner caster wheels at the base; 8–10 kg target, 10 kg maximum; physical and airline acceptance unvalidated | [Website](https://pui89.github.io/nomad.html) |
+| [PUI89 Sentinel — All-Terrain Inspection Robot](https://github.com/Pui89/PUI89-All-Terrain-Inspection-Robot) | Four-legged quadruped inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
+| [PUI89 AI HOME](https://github.com/Pui89/AI-Home-Safety-Robot) | Indoor home-condition awareness and evidence-led assistance | [Website](https://pui89.github.io/home.html) |
+| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Ground-based mobile AI assistant in a suitcase-style form factor; 8–10 kg target, 10 kg maximum; physical performance not yet validated | [Website](https://pui89.github.io/nomad.html) |
 | [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | Medium-size global SUV concept; HEV-first evaluation with powertrain-neutral, advisory-only AI software | [Website](https://pui89.github.io/ai-global-suv.html) |
-| [EasyRide AI Step-Through Scooter](https://github.com/Pui89/AI-Motorcycle-Robotics) | AI-assisted step-through mobility and road/flood safety research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
+| [PUI89 AI Step-Through Scooter](https://github.com/Pui89/AI-Step-Through-Scooter) | Rider-centred mobility intelligence and road-awareness research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
+
+**Portfolio boundary:** PUI89 currently presents six active products. Extreme Flood Rescue AI is not part of the active product portfolio; its repository and historical engineering record are retained separately as an archived project. Shared AI Core supports the products and is not counted as another product.
 
 ## Engineering roadmap
 
