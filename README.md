@@ -13,7 +13,19 @@ PUI89 is an independent AI and robotics research initiative based in Thailand. I
 
 **Email:** [puinuanmanee@gmail.com](mailto:puinuanmanee@gmail.com?subject=PUI89%20Enquiry)
 
-PUI89 welcomes enquiries and offers of support, including **funding, equipment, technical expertise, research collaboration, testing and open-source contributions**. Please email to introduce your offer or discuss how you could support the work.  
+PUI89 welcomes enquiries and offers of support, including **funding, materials, hardware, equipment, technical expertise, research collaboration, testing and open-source contributions**. Offers of different types and scales are welcome.
+
+### Materials, hardware & equipment
+
+PUI89 is open to offers of **any relevant materials, hardware, components, tools, equipment or technical resources** that could support AI research, robotics development, engineering, prototyping or real-world testing. Examples include:
+
+- **Materials:** metals, plastics, structural materials, electronic materials, fabrication supplies and other useful raw or prepared materials.
+- **Computing hardware:** computers, workstations, CPUs, GPUs, NPUs, memory, storage and networking equipment.
+- **Electronics and robotics:** microcontrollers, development boards, sensors, cameras, LiDAR, batteries, motors, actuators, controllers, wiring and robotic components.
+- **Tools and test equipment:** workshop tools, fabrication and prototyping equipment, measurement instruments, diagnostic devices and laboratory equipment.
+- **Other support:** funding, specialist expertise, research collaboration, testing opportunities and open-source contributions.
+
+All offers are considered according to project relevance, safety, compatibility, technical suitability and available capacity. Listing an item here does not mean PUI89 has received it or that it is already in use. Please email to discuss a possible contribution.  
 📚 **GitHub projects:** https://github.com/Pui89
 
 ## Platform architecture: Shared AI Core
