@@ -8,6 +8,7 @@ PUI89 is an independent AI and robotics research initiative based in Thailand. I
 🇹🇭 **Thai portfolio:** https://pui89.github.io/th.html  
 🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
 🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html
+📦 **Development resource needs:** [English](https://pui89.github.io/project-support-requirements.html) · [ไทย](https://pui89.github.io/project-support-requirements-th.html)
 
 ## Contact & support
 
