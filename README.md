@@ -1,13 +1,23 @@
-# PUI89 — Evidence-Led AI & Robotics Engineering
+# PUI89 — Independent AI & Robotics Initiative
 
 **Intelligent systems. Verifiable decisions. Safer outcomes.**
 
 PUI89 is an independent AI and robotics research initiative based in Thailand. It develops software foundations, applied AI experiments and robotics concepts across agriculture, multimodal inspection, home assistance, mobile assistance and intelligent mobility.
 
+## Founder
+
+**Founder — PUI89**
+
+PUI89 is an **Independent AI & Robotics Initiative** founded and led by its Founder. The Founder sets the initiative's direction, priorities and decisions while drawing on AI tools, research, specialist knowledge and collaboration to develop the portfolio.
+
+**AI Engineering** is used to describe a technical discipline and the process of designing, developing and evaluating AI systems. It is not used here as the Founder's job title or as a claim of an engineering qualification.
+
+Read the [PUI89 Founder & Initiative Identity](https://pui89.github.io/founder.html).
+
 🌐 **Official portfolio:** https://pui89.github.io/  
 🇹🇭 **Thai portfolio:** https://pui89.github.io/th.html  
 🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
-🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html
+🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html  
 📦 **Development resource needs:** [English](https://pui89.github.io/project-support-requirements.html) · [ไทย](https://pui89.github.io/project-support-requirements-th.html)
 
 ## Contact & support
@@ -49,7 +59,7 @@ Cross-project engineering priorities include evidence traceability, uncertainty-
 | [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | Coconut maturity assessment, visual perception and harvesting-robot research | [Website](https://pui89.github.io/coconut.html) |
 | [PUI89 Sentinel — All-Terrain Inspection Robot](https://github.com/Pui89/PUI89-All-Terrain-Inspection-Robot) | Four-legged quadruped inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
 | [PUI89 AI HOME](https://github.com/Pui89/AI-Home-Safety-Robot) | Indoor home-condition awareness and evidence-led assistance | [Website](https://pui89.github.io/home.html) |
-| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Ground-based mobile AI assistant in a suitcase-style form factor; 8–10 kg target, 10 kg maximum; physical performance not yet validated | [Website](https://pui89.github.io/nomad.html) |
+| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Ground-based mobile AI assistant; 8–10 kg target, 10 kg maximum; physical performance not yet validated | [Website](https://pui89.github.io/nomad.html) |
 | [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | Medium-size global SUV concept; HEV-first evaluation with powertrain-neutral, advisory-only AI software | [Website](https://pui89.github.io/ai-global-suv.html) |
 | [PUI89 AI Step-Through Scooter](https://github.com/Pui89/AI-Step-Through-Scooter) | Rider-centred mobility intelligence and road-awareness research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
 
@@ -112,4 +122,4 @@ Contributions should be documented, reviewable and testable. No contribution sho
 
 ---
 
-<sub>Independent research and engineering initiative · Thailand · Evidence-led · Safety-conscious · Open-source-first</sub>
+<sub>Independent AI & Robotics Initiative · Thailand · Evidence-led · Safety-conscious · Open-source-first</sub>
