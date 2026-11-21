@@ -1,5 +1,9 @@
 # PUI89 — Evidence-Led AI & Robotics Engineering
 
+<p align="center">
+  <strong>🇬🇧 English</strong> · <a href="README.th.md">🇹🇭 ภาษาไทย</a>
+</p>
+
 **Intelligent systems. Verifiable decisions. Safer outcomes.**
 
 PUI89 is an independent AI and robotics research initiative based in Thailand. It develops software foundations, applied AI experiments and robotics concepts across agriculture, multimodal inspection, home assistance, mobile assistance and intelligent mobility.
@@ -7,7 +11,7 @@ PUI89 is an independent AI and robotics research initiative based in Thailand. I
 🌐 **Official portfolio:** https://pui89.github.io/  
 🇹🇭 **Thai portfolio:** https://pui89.github.io/th.html  
 🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
-🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html
+🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html  
 📦 **Development resource needs:** [English](https://pui89.github.io/project-support-requirements.html) · [ไทย](https://pui89.github.io/project-support-requirements-th.html)
 
 ## Contact & support
