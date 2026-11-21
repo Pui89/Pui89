@@ -53,7 +53,7 @@ PUI89 เปิดรับข้อเสนอเกี่ยวกับ **�
 | [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | การประเมินความแก่ของมะพร้าว การรับรู้ด้วยภาพ และการวิจัยระบบหุ่นยนต์เก็บเกี่ยว | [เว็บไซต์](https://pui89.github.io/coconut.html) |
 | [PUI89 Sentinel — All-Terrain Inspection Robot](https://github.com/Pui89/PUI89-All-Terrain-Inspection-Robot) | แนวคิดหุ่นยนต์ตรวจสอบแบบสี่ขา การรับรู้สภาพแวดล้อม และการเก็บหลักฐานภายใต้การกำกับดูแลของมนุษย์ | [เว็บไซต์](https://pui89.github.io/sentinel.html) |
 | [PUI89 AI HOME](https://github.com/Pui89/AI-Home-Safety-Robot) | การรับรู้สภาพแวดล้อมภายในบ้านและการช่วยเหลือโดยอาศัยหลักฐาน | [เว็บไซต์](https://pui89.github.io/home.html) |
-| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | ผู้ช่วย AI เคลื่อนที่ภาคพื้นดินในรูปแบบกระเป๋าเดินทาง เป้าหมายน้ำหนัก 8–10 กก. และน้ำหนักสูงสุด 10 กก. สมรรถนะทางกายภาพยังไม่ได้รับการตรวจสอบยืนยัน | [เว็บไซต์](https://pui89.github.io/nomad.html) |
+| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | แนวคิดผู้ช่วยเคลื่อนที่อัจฉริยะในรูปแบบกระเป๋าเดินทาง พร้อมด้ามจับยืดหดได้และล้อแบบกระเป๋าเดินทาง; เป้าหมายน้ำหนักเบื้องต้น 8–10 กก. สูงสุด 10 กก.; สมรรถนะทางกายภาพยังไม่ได้รับการตรวจสอบ | [เว็บไซต์](https://pui89.github.io/nomad.html) |
 | [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | แนวคิดรถ SUV ขนาดกลางสำหรับตลาดโลก ประเมินระบบ HEV เป็นลำดับแรก พร้อมซอฟต์แวร์ AI ที่ไม่ผูกกับระบบขับเคลื่อนและทำหน้าที่ให้คำแนะนำเท่านั้น | [เว็บไซต์](https://pui89.github.io/ai-global-suv.html) |
 | [PUI89 AI Step-Through Scooter](https://github.com/Pui89/AI-Step-Through-Scooter) | ระบบอัจฉริยะเพื่อผู้ขับขี่และการวิจัยการรับรู้สภาพถนน | [เว็บไซต์](https://pui89.github.io/ai-robot-motorcycle.html) |
 
