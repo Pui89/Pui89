@@ -1,5 +1,9 @@
 # PUI89 — Independent AI & Robotics Initiative
 
+<p align="center">
+  <strong>🇬🇧 English</strong> · <a href="README.th.md">🇹🇭 ภาษาไทย</a>
+</p>
+
 **Intelligent systems. Verifiable decisions. Safer outcomes.**
 
 PUI89 is an independent AI and robotics research initiative based in Thailand. It develops software foundations, applied AI experiments and robotics concepts across agriculture, multimodal inspection, home assistance, mobile assistance and intelligent mobility.
@@ -63,7 +67,7 @@ Cross-project engineering priorities include evidence traceability, uncertainty-
 | [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | Medium-size global SUV concept; HEV-first evaluation with powertrain-neutral, advisory-only AI software | [Website](https://pui89.github.io/ai-global-suv.html) |
 | [PUI89 AI Step-Through Scooter](https://github.com/Pui89/AI-Step-Through-Scooter) | Rider-centred mobility intelligence and road-awareness research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
 
-**Portfolio boundary:** PUI89 currently presents six active products. Extreme Flood Rescue AI is not part of the active product portfolio; its repository and historical engineering record are retained separately as an archived project. Shared AI Core supports the products and is not counted as another product.
+**Portfolio boundary:** PUI89 has exactly six active products. Shared AI Core supports these products as common engineering infrastructure and is not counted as a product. Flood and road-water awareness may appear as advisory requirements within relevant mobility products, not as a separate product.
 
 ## PUI89 platform direction — software-first Industrial AI
 
