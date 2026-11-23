@@ -12,12 +12,12 @@ PUI89 is hardware-neutral. The focus is on making AI workloads work efficiently 
 
 ## Technology collaboration
 
-PUI89 welcomes technical enquiries and potential evaluation proposals from:
+PUI89 is currently developed by one founder. The long-term operating model is a deliberately small core team of one to three people, expanding only when a specific product or engineering need justifies it.
 
-- Startups developing AI hardware, robotics, sensors, and computing technologies.
-- Hardware manufacturers and technology companies.
-- Universities and independent research institutes.
-- AI developers, engineering teams, and open-source communities.
+PUI89 welcomes selective technical enquiries from:
+
+- Technology companies, hardware manufacturers, and relevant startups.
+- Experienced AI developers, software and hardware engineers, and other specialist professionals.
 
 ### Bring your hardware. Explore technical evaluation with PUI89.
 
@@ -27,9 +27,9 @@ Potential evaluation areas include CPU, GPU, NPU, MCU, and AI accelerator integr
 
 Any evaluation is subject to technical suitability, available capacity, safety requirements, and mutually agreed written conditions. PUI89 does not promise to accept or test every offered device.
 
-## Independent development and relationship disclosure
+## Founder-led development and independent identity
 
-PUI89 operates independently. Its public materials do not imply endorsement, sponsorship, affiliation, employment, representation, or an existing partnership with any government agency, university, research institute, company, or other organisation.
+PUI89 is a founder-led independent initiative. One founder currently leads the direction, product priorities, architecture and development coordination. The portfolio is intended to grow progressively under one PUI89 identity; having multiple product concepts does not mean that all products are being developed or physically built at the same time. Public materials do not imply endorsement, sponsorship, employment, representation, or an existing partnership with any company or other organisation.
 
 An enquiry, discussion, contribution, or proposed test does not establish a partnership. Any collaboration must be separately reviewed and agreed in writing by the relevant parties. Names and logos of organisations will not be presented as partners or supporters without appropriate permission and confirmation.
 
@@ -120,18 +120,15 @@ A passing software test does not establish real-world model accuracy, robot capa
 
 The portfolio follows an open-source-first, resource-conscious approach. Third-party code, models, datasets and checkpoints require separate licence, provenance, security and hardware-resource checks before adoption.
 
-## Collaboration and contributions
+## Selective technical collaboration
 
-PUI89 welcomes constructive research and engineering collaboration in applied AI, computer vision, multimodal systems, robotics, simulation, safety engineering and evidence-based evaluation.
+PUI89 is open to discussing focused technical collaboration with companies, hardware developers, startups and experienced individual professionals whose expertise directly supports a defined product or Shared AI Core requirement.
 
-To contribute:
+Potential activities include compatible hardware evaluation, software and hardware integration, specialist engineering advice, focused code contributions, and controlled technical testing. Proposals are considered individually and depend on technical fit, available capacity, safety, resources and clearly agreed conditions.
 
-1. Read the relevant repository README and existing issues.
-2. Open an issue to discuss a proposed change before substantial work.
-3. Submit focused pull requests with a clear rationale, test instructions and evidence.
-4. Identify limitations, data/model provenance and whether results are real, synthetic or simulated.
+PUI89 is not actively seeking institutional research partnerships or a large contributor network. An enquiry or discussion does not establish a partnership. Before work begins, the parties should agree in writing on scope, responsibilities, costs, equipment ownership, intellectual property, confidentiality, data rights and publication permissions. Names and logos are not presented as partners without permission and confirmation.
 
-Contributions should be documented, reviewable and testable. No contribution should imply that a prototype is field-ready or safety-certified without supporting evidence.
+For code contributions, read the relevant repository README, discuss substantial changes in an issue first, and submit focused, reviewable pull requests with test instructions and evidence.
 
 ---
 
