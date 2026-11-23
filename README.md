@@ -1,47 +1,56 @@
-# PUI89 — Independent AI & Robotics Initiative
+# PUI89 — Independent Industrial AI Platform
 
 <p align="center">
   <strong>🇬🇧 English</strong> · <a href="README.th.md">🇹🇭 ภาษาไทย</a>
 </p>
 
-**Intelligent systems. Verifiable decisions. Safer outcomes.**
+**Developed independently in Thailand · Open to global technical collaboration**
 
-PUI89 is an independent AI and robotics research initiative based in Thailand. It develops software foundations, applied AI experiments and robotics concepts across agriculture, multimodal inspection, home assistance, mobile assistance and intelligent mobility.
+PUI89 is an independently developed, software-first Industrial AI initiative. It explores reusable AI software, intelligent systems, robotics concepts, and software–hardware integration across agriculture, inspection, assistance, and mobility.
 
-## Founder
+PUI89 is hardware-neutral. The focus is on making AI workloads work efficiently and reliably across CPUs, GPUs, NPUs, MCUs, sensors, embedded systems, and edge-computing platforms. PUI89 does not manufacture semiconductor chips.
 
-**Founder — PUI89**
+## Technology collaboration
 
-PUI89 is an **Independent AI & Robotics Initiative** founded and led by its Founder. The Founder sets the initiative's direction, priorities and decisions while drawing on AI tools, research, specialist knowledge and collaboration to develop the portfolio.
+PUI89 welcomes technical enquiries and potential evaluation proposals from:
 
-**AI Engineering** is used to describe a technical discipline and the process of designing, developing and evaluating AI systems. It is not used here as the Founder's job title or as a claim of an engineering qualification.
+- Startups developing AI hardware, robotics, sensors, and computing technologies.
+- Hardware manufacturers and technology companies.
+- Universities and independent research institutes.
+- AI developers, engineering teams, and open-source communities.
+
+### Bring your hardware. Explore technical evaluation with PUI89.
+
+Companies, startups, and technology developers are welcome to propose bringing their own compatible hardware for a potential technical evaluation with PUI89.
+
+Potential evaluation areas include CPU, GPU, NPU, MCU, and AI accelerator integration; edge AI and local inference; model selection, sizing, and quantisation; multimodal sensors and robotics components; hardware–software compatibility; resource efficiency; reliability; fault handling; and reproducible testing.
+
+Any evaluation is subject to technical suitability, available capacity, safety requirements, and mutually agreed written conditions. PUI89 does not promise to accept or test every offered device.
+
+## Independent development and relationship disclosure
+
+PUI89 operates independently. Its public materials do not imply endorsement, sponsorship, affiliation, employment, representation, or an existing partnership with any government agency, university, research institute, company, or other organisation.
+
+An enquiry, discussion, contribution, or proposed test does not establish a partnership. Any collaboration must be separately reviewed and agreed in writing by the relevant parties. Names and logos of organisations will not be presented as partners or supporters without appropriate permission and confirmation.
+
+## Contact
+
+**Email:** [puinuanmanee@gmail.com](mailto:puinuanmanee@gmail.com?subject=PUI89%20Technical%20Collaboration)
+
+When contacting PUI89, please briefly describe your organisation or technical background, the hardware or technology proposed, the intended evaluation, and any conditions or expectations.
+
+🌐 **Official website:** https://pui89.github.io/  
+🇹🇭 **Thai website:** https://pui89.github.io/th.html  
+🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
+🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html
+
+## Founder and initiative identity
+
+PUI89 is a founder-led independent initiative. The Founder sets the initiative's direction, priorities, and decisions while drawing on AI tools, research, specialist knowledge, and collaboration.
+
+**AI Engineering** describes a technical discipline and development process; it is not used here as the Founder's job title or as a claim of a professional engineering qualification.
 
 Read the [PUI89 Founder & Initiative Identity](https://pui89.github.io/founder.html).
-
-🌐 **Official portfolio:** https://pui89.github.io/  
-🇹🇭 **Thai portfolio:** https://pui89.github.io/th.html  
-🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
-🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html  
-📦 **Development resource needs:** [English](https://pui89.github.io/project-support-requirements.html) · [ไทย](https://pui89.github.io/project-support-requirements-th.html)
-
-## Contact & support
-
-**Email:** [puinuanmanee@gmail.com](mailto:puinuanmanee@gmail.com?subject=PUI89%20Enquiry)
-
-PUI89 welcomes enquiries and offers of support, including **funding, materials, hardware, equipment, technical expertise, research collaboration, testing and open-source contributions**. Offers of different types and scales are welcome.
-
-### Materials, hardware & equipment
-
-PUI89 is open to offers of **any relevant materials, hardware, components, tools, equipment or technical resources** that could support AI research, robotics development, engineering, prototyping or real-world testing. Examples include:
-
-- **Materials:** metals, plastics, structural materials, electronic materials, fabrication supplies and other useful raw or prepared materials.
-- **Computing hardware:** computers, workstations, CPUs, GPUs, NPUs, memory, storage and networking equipment.
-- **Electronics and robotics:** microcontrollers, development boards, sensors, cameras, LiDAR, batteries, motors, actuators, controllers, wiring and robotic components.
-- **Tools and test equipment:** workshop tools, fabrication and prototyping equipment, measurement instruments, diagnostic devices and laboratory equipment.
-- **Other support:** funding, specialist expertise, research collaboration, testing opportunities and open-source contributions.
-
-All offers are considered according to project relevance, safety, compatibility, technical suitability and available capacity. Listing an item here does not mean PUI89 has received it or that it is already in use. Please email to discuss a possible contribution.  
-📚 **GitHub projects:** https://github.com/Pui89
 
 ## Platform architecture: Shared AI Core
 
