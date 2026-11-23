@@ -10,11 +10,11 @@ PUI89 is an independently developed, software-first Industrial AI initiative. It
 
 PUI89 is hardware-neutral. The focus is on making AI workloads work efficiently and reliably across CPUs, GPUs, NPUs, MCUs, sensors, embedded systems, and edge-computing platforms. PUI89 does not manufacture semiconductor chips.
 
-## Technology collaboration
+## Partnerships and technology collaboration
 
-PUI89 is currently developed by one founder. The long-term operating model is a deliberately small core team of one to three people, expanding only when a specific product or engineering need justifies it.
+PUI89 is currently developed by one founder, with a deliberately small core team of one to three people as specific needs arise. PUI89 is independent, but independence does not mean working alone: it welcomes partners who can contribute expertise, technology, hardware, resources and practical support to help turn product concepts into real-world solutions. The founder retains strategic direction and leadership.
 
-PUI89 welcomes selective technical enquiries from:
+PUI89 welcomes partnership and collaboration proposals from:
 
 - Technology companies, hardware manufacturers, and relevant startups.
 - Experienced AI developers, software and hardware engineers, and other specialist professionals.
@@ -120,13 +120,13 @@ A passing software test does not establish real-world model accuracy, robot capa
 
 The portfolio follows an open-source-first, resource-conscious approach. Third-party code, models, datasets and checkpoints require separate licence, provenance, security and hardware-resource checks before adoption.
 
-## Selective technical collaboration
+## Open partnerships and collaboration
 
-PUI89 is open to discussing focused technical collaboration with companies, hardware developers, startups and experienced individual professionals whose expertise directly supports a defined product or Shared AI Core requirement.
+PUI89 is open to working with companies, hardware manufacturers, relevant startups and experienced professionals whose capabilities can help move its products from concepts toward real-world solutions. Collaboration may contribute specialist expertise, technology, hardware, resources or practical development support. The founder retains strategic direction and leadership.
 
 Potential activities include compatible hardware evaluation, software and hardware integration, specialist engineering advice, focused code contributions, and controlled technical testing. Proposals are considered individually and depend on technical fit, available capacity, safety, resources and clearly agreed conditions.
 
-PUI89 is open to partnerships and collaboration with companies, hardware manufacturers, relevant startups and experienced professionals. It welcomes suitable hardware support, including equipment, components, technical resources and access to platforms for evaluation. Partnerships may be project-specific or ongoing, depending on mutual interests and practical value. An enquiry or discussion does not establish a partnership. Before work begins, the parties should agree in writing on scope, responsibilities, costs, equipment ownership, intellectual property, confidentiality, data rights and publication permissions. Names and logos are not presented as partners without permission and confirmation.
+Partnerships may be project-specific or ongoing, depending on mutual interests, practical value and agreed goals. Suitable support may include equipment, components, technical resources and access to platforms for evaluation. Before work begins, the parties should agree in writing on scope, responsibilities, costs, equipment ownership, intellectual property, confidentiality, data rights and publication permissions. An enquiry or discussion does not establish a partnership, and organisation names or logos are presented as partners only with permission and confirmation.
 
 For code contributions, read the relevant repository README, discuss substantial changes in an issue first, and submit focused, reviewable pull requests with test instructions and evidence.
 
