@@ -40,14 +40,6 @@ When contacting PUI89, please briefly describe your organisation or technical ba
 🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
 🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html
 
-## Founder and initiative identity
-
-PUI89 is a founder-led independent initiative. The Founder sets the initiative's direction, priorities, and decisions while drawing on AI tools, research, specialist knowledge, and collaboration.
-
-**AI Engineering** describes a technical discipline and development process; it is not used here as the Founder's job title or as a claim of a professional engineering qualification.
-
-Read the [PUI89 Founder & Initiative Identity](https://pui89.github.io/founder.html).
-
 ## Platform architecture: Shared AI Core
 
 The **Shared AI Core is PUI89's cross-project engineering platform, not a standalone product**. Its purpose is to establish reusable interfaces and safety/evidence practices that individual products can adopt as they mature.
