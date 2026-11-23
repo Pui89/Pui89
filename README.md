@@ -126,7 +126,7 @@ PUI89 is open to discussing focused technical collaboration with companies, hard
 
 Potential activities include compatible hardware evaluation, software and hardware integration, specialist engineering advice, focused code contributions, and controlled technical testing. Proposals are considered individually and depend on technical fit, available capacity, safety, resources and clearly agreed conditions.
 
-PUI89 is not actively seeking institutional research partnerships or a large contributor network. An enquiry or discussion does not establish a partnership. Before work begins, the parties should agree in writing on scope, responsibilities, costs, equipment ownership, intellectual property, confidentiality, data rights and publication permissions. Names and logos are not presented as partners without permission and confirmation.
+PUI89 is open to partnerships and collaboration with companies, hardware manufacturers, relevant startups and experienced professionals. It welcomes suitable hardware support, including equipment, components, technical resources and access to platforms for evaluation. Partnerships may be project-specific or ongoing, depending on mutual interests and practical value. An enquiry or discussion does not establish a partnership. Before work begins, the parties should agree in writing on scope, responsibilities, costs, equipment ownership, intellectual property, confidentiality, data rights and publication permissions. Names and logos are not presented as partners without permission and confirmation.
 
 For code contributions, read the relevant repository README, discuss substantial changes in an issue first, and submit focused, reviewable pull requests with test instructions and evidence.
 
