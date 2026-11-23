@@ -6,51 +6,39 @@
 
 **Developed independently in Thailand · Open to global technical collaboration**
 
-PUI89 is an independently developed, software-first Industrial AI initiative. It explores reusable AI software, intelligent systems, robotics concepts, and software–hardware integration across agriculture, inspection, assistance, and mobility.
+PUI89 is an independently developed, software-first Industrial AI initiative. It is currently developing product concepts, AI software, system architecture and engineering requirements across agriculture, inspection, assistance and mobility. Hardware acquisition is being planned for future development and evaluation. PUI89 does not currently claim to have physical prototypes or hardware-validated product performance.
 
 PUI89 is hardware-neutral. The focus is on making AI workloads work efficiently and reliably across CPUs, GPUs, NPUs, MCUs, sensors, embedded systems, and edge-computing platforms. PUI89 does not manufacture semiconductor chips.
 
 ## Partnerships and technology collaboration
 
-PUI89 is currently developed by one founder, with a deliberately small core team of one to three people as specific needs arise. PUI89 is independent, but independence does not mean working alone: it welcomes partners who can contribute expertise, technology, hardware, resources and practical support to help turn product concepts into real-world solutions. The founder retains strategic direction and leadership.
+PUI89 is an independent initiative that welcomes relevant technical collaboration. Public information focuses on current development work and evidence; organisational arrangements and future collaboration details will be defined only when needed and mutually agreed.
 
 PUI89 welcomes partnership and collaboration proposals from:
 
 - Technology companies, hardware manufacturers, and relevant startups.
 - Experienced AI developers, software and hardware engineers, and other specialist professionals.
 
-### Bring your hardware. Explore technical evaluation with PUI89.
+### Hardware collaboration and future evaluation
 
-Companies, startups, and technology developers are welcome to propose bringing their own compatible hardware for a potential technical evaluation with PUI89.
+PUI89 is currently planning to obtain suitable hardware for future development and technical evaluation. No hardware availability, physical prototype, or hardware-based test programme is being claimed at this stage. PUI89 welcomes relevant enquiries and advice from hardware developers and technology providers. Any future access, evaluation or integration will depend on actual equipment availability, technical suitability, resources, safety requirements and mutually agreed conditions.
 
-Potential evaluation areas include CPU, GPU, NPU, MCU, and AI accelerator integration; edge AI and local inference; model selection, sizing, and quantisation; multimodal sensors and robotics components; hardware–software compatibility; resource efficiency; reliability; fault handling; and reproducible testing.
+## Independent development and public status
 
-Any evaluation is subject to technical suitability, available capacity, safety requirements, and mutually agreed written conditions. PUI89 does not promise to accept or test every offered device.
+PUI89 is an independent project identity under development. The six portfolio entries describe separate product concepts and development tracks; they are not claims that six physical products have been built. Concepts, requirements, software implementation, simulations and physical validation are distinct stages and must be described according to available evidence. Public materials do not imply endorsement, sponsorship, employment, representation or an existing partnership with any organisation.
 
-## Founder-led development and independent identity
-
-PUI89 is a founder-led independent initiative. One founder currently leads the direction, product priorities, architecture and development coordination. The portfolio is intended to grow progressively under one PUI89 identity; having multiple product concepts does not mean that all products are being developed or physically built at the same time. Public materials do not imply endorsement, sponsorship, employment, representation, or an existing partnership with any company or other organisation.
-
-An enquiry, discussion, contribution, or proposed test does not establish a partnership. Any collaboration must be separately reviewed and agreed in writing by the relevant parties. Names and logos of organisations will not be presented as partners or supporters without appropriate permission and confirmation.
+An enquiry or discussion does not establish a partnership. Any collaboration must be separately reviewed and agreed in writing. Names and logos of organisations will not be presented as partners or supporters without permission and confirmation.
 
 ## Contact
 
 **Email:** [puinuanmanee@gmail.com](mailto:puinuanmanee@gmail.com?subject=PUI89%20Technical%20Collaboration)
 
-When contacting PUI89, please briefly describe your organisation or technical background, the hardware or technology proposed, the intended evaluation, and any conditions or expectations.
+When contacting PUI89, please briefly describe your organisation or technical background, the relevant technology or expertise, and the nature of the enquiry. Hardware proposals may be discussed as future support; they do not imply that equipment or testing capacity is currently available.
 
 🌐 **Official website:** https://pui89.github.io/  
 🇹🇭 **Thai website:** https://pui89.github.io/th.html  
 🧭 **Engineering Atlas:** https://pui89.github.io/engineering-atlas.html  
 🧠 **Shared AI Core:** https://pui89.github.io/ai-core.html
-
-## Founder and initiative identity
-
-PUI89 is a founder-led independent initiative. The Founder sets the initiative's direction, priorities, and decisions while drawing on AI tools, research, specialist knowledge, and collaboration.
-
-**AI Engineering** describes a technical discipline and development process; it is not used here as the Founder's job title or as a claim of a professional engineering qualification.
-
-Read the [PUI89 Founder & Initiative Identity](https://pui89.github.io/founder.html).
 
 ## Platform architecture: Shared AI Core
 
@@ -122,11 +110,9 @@ The portfolio follows an open-source-first, resource-conscious approach. Third-p
 
 ## Open partnerships and collaboration
 
-PUI89 is open to working with companies, hardware manufacturers, relevant startups and experienced professionals whose capabilities can help move its products from concepts toward real-world solutions. Collaboration may contribute specialist expertise, technology, hardware, resources or practical development support. The founder retains strategic direction and leadership.
+PUI89 is open to relevant technical enquiries from companies, hardware manufacturers, startups and experienced professionals who may help move product concepts toward future development. Possible support may include specialist advice, technology information, equipment loans or donations, and practical development input, subject to review and availability.
 
-Potential activities include compatible hardware evaluation, software and hardware integration, specialist engineering advice, focused code contributions, and controlled technical testing. Proposals are considered individually and depend on technical fit, available capacity, safety, resources and clearly agreed conditions.
-
-Partnerships may be project-specific or ongoing, depending on mutual interests, practical value and agreed goals. Suitable support may include equipment, components, technical resources and access to platforms for evaluation. Before work begins, the parties should agree in writing on scope, responsibilities, costs, equipment ownership, intellectual property, confidentiality, data rights and publication permissions. An enquiry or discussion does not establish a partnership, and organisation names or logos are presented as partners only with permission and confirmation.
+Any future hardware evaluation, integration or testing can be considered only after suitable equipment and resources are available. Proposals will be reviewed individually for technical fit, safety and feasibility. Before any work begins, the parties must agree in writing on scope, responsibilities, costs, equipment ownership, intellectual property, confidentiality, data rights and publication permissions. An enquiry or discussion does not establish a partnership, and organisation names or logos are presented as partners only with permission and confirmation.
 
 For code contributions, read the relevant repository README, discuss substantial changes in an issue first, and submit focused, reviewable pull requests with test instructions and evidence.
 
