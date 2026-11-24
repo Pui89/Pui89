@@ -119,3 +119,21 @@ For code contributions, read the relevant repository README, discuss substantial
 ---
 
 <sub>Independent AI & Robotics Initiative · Thailand · Evidence-led · Safety-conscious · Open-source-first</sub>
+
+
+## Portfolio evidence review — 24 November 2026
+
+PUI89's active portfolio contains six products. Shared AI Core is shared engineering infrastructure, not a seventh product. Extreme Flood Rescue AI is retired. Flood and road-water risk awareness may remain conservative advisory functions within relevant mobility products; it is not a separate rescue product. Historical narcotics-screening work is outside Sentinel's current scope.
+
+| Product | Current maturity | Next evidence gate |
+|---|---|---|
+| Coconut Harvest AI | Implemented — software and evaluation-preparation foundation | Rights-cleared real images, human-reviewed labels, leakage-safe split and reproducible CPU evaluation. |
+| PUI89 Sentinel | Specified — supervised quadruped inspection requirements | One authorised mission, site/hazard baseline, operating envelope and measurable acceptance criteria. |
+| PUI89 AI HOME | Implemented — early requirements, architecture and software foundations | Traceable software-only home-awareness demonstration and repeatable tests; no live sensor or robot claim. |
+| PUI89 AI NOMAD | Implemented — early software foundation | User journey, suitcase dimensions, handle/wheel ergonomics, mass and power budgets. |
+| PUI89 AI Global SUV | Implemented — software-only safety and contract foundation | Hazard/use-case baseline and repeatable advisory-only scenario evaluation; driver remains in control. |
+| PUI89 AI Step-Through Scooter | Specified — rider-first product requirements | Rider hazard analysis, measurable acceptance criteria and reproducible advisory-software tests. |
+
+Maturity describes documented development state, not commercial readiness. No physical prototype, integrated hardware, field validation, certification or production capability is implied. Concept art, simulation and passing software tests are not physical-performance evidence. Do not publish readiness percentages without a current, traceable evidence register.
+
+**Latest dated evidence note:** Coconut Harvest AI's 24 November repository update records dataset split-isolation checks, public image-source research and a blank field-discovery register. It does not establish an approved training dataset, completed human annotation, a trained/evaluated PUI89 model, accuracy metrics or a working harvesting robot.
