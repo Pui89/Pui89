@@ -60,7 +60,7 @@ Cross-project engineering priorities include evidence traceability, uncertainty-
 | [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | Coconut maturity assessment, visual perception and harvesting-robot research | [Website](https://pui89.github.io/coconut.html) |
 | [PUI89 Sentinel — All-Terrain Inspection Robot](https://github.com/Pui89/PUI89-All-Terrain-Inspection-Robot) | Four-legged quadruped inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
 | [PUI89 AI HOME](https://github.com/Pui89/AI-Home-Safety-Robot) | Indoor home-condition awareness and evidence-led assistance | [Website](https://pui89.github.io/home.html) |
-| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Intelligent suitcase mobile-assistant concept with a telescopic pull handle and integrated luggage-style wheels; preliminary 8–10 kg target, 10 kg maximum; physical performance not validated | [Website](https://pui89.github.io/nomad.html) |
+| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Compact dog-inspired four-wheel mobile-assistant concept with integrated handle; preliminary 8–10 kg target, 10 kg maximum; physical performance not validated | [Website](https://pui89.github.io/nomad.html) |
 | [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | Medium-size global SUV concept; HEV-first evaluation with powertrain-neutral, advisory-only AI software | [Website](https://pui89.github.io/ai-global-suv.html) |
 | [PUI89 AI Step-Through Scooter](https://github.com/Pui89/AI-Step-Through-Scooter) | Rider-centred mobility intelligence and road-awareness research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
 
@@ -130,7 +130,7 @@ PUI89's active portfolio contains six products. Shared AI Core is shared enginee
 | Coconut Harvest AI | Implemented — software and evaluation-preparation foundation | Rights-cleared real images, human-reviewed labels, leakage-safe split and reproducible CPU evaluation. |
 | PUI89 Sentinel | Specified — supervised quadruped inspection requirements | One authorised mission, site/hazard baseline, operating envelope and measurable acceptance criteria. |
 | PUI89 AI HOME | Implemented — early requirements, architecture and software foundations | Traceable software-only home-awareness demonstration and repeatable tests; no live sensor or robot claim. |
-| PUI89 AI NOMAD | Implemented — early software foundation | User journey, suitcase dimensions, handle/wheel ergonomics, mass and power budgets. |
+| PUI89 AI NOMAD | Implemented — early software foundation | User journey, body/handle ergonomics, four-wheel layout, stability, mass and power budgets. |
 | PUI89 AI Global SUV | Implemented — software-only safety and contract foundation | Hazard/use-case baseline and repeatable advisory-only scenario evaluation; driver remains in control. |
 | PUI89 AI Step-Through Scooter | Specified — rider-first product requirements | Rider hazard analysis, measurable acceptance criteria and reproducible advisory-software tests. |
 
