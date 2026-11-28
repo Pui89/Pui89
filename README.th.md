@@ -66,7 +66,7 @@ PUI89 เป็นชื่อโครงการอิสระที่อ�
 | [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | การประเมินความแก่ของมะพร้าว การรับรู้ด้วยภาพ และการวิจัยระบบหุ่นยนต์เก็บเกี่ยว | [เว็บไซต์](https://pui89.github.io/coconut.html) |
 | [PUI89 Sentinel — All-Terrain Inspection Robot Dog](https://github.com/Pui89/PUI89-All-Terrain-Inspection-Robot) | แนวคิดหุ่นยนต์ตรวจสอบแบบสี่ขา การรับรู้สภาพแวดล้อม และการเก็บหลักฐานภายใต้การกำกับดูแลของมนุษย์ | [เว็บไซต์](https://pui89.github.io/sentinel.html) |
 | [PUI89 AI HOME](https://github.com/Pui89/AI-Home-Safety-Robot) | การรับรู้สภาพแวดล้อมภายในบ้านและการช่วยเหลือโดยอาศัยหลักฐาน | [เว็บไซต์](https://pui89.github.io/home.html) |
-| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | แนวคิดผู้ช่วยเคลื่อนที่ 4 ล้อขนาดกะทัดรัด รูปทรงได้แรงบันดาลใจจากสุนัข พร้อมด้ามจับในตัว; เป้าหมายน้ำหนักประมาณ 7 กก. สูงสุด 10 กก.; สมรรถนะทางกายภาพยังไม่ได้รับการตรวจสอบ | [เว็บไซต์](https://pui89.github.io/nomad.html) |
+| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | แนวคิดผู้ช่วยเคลื่อนที่ 4 ล้อทรงกระเป๋าเดินทางตั้งระดับพรีเมียม พร้อมด้ามจับยืดหดได้; เป้าหมายน้ำหนักประมาณ 7 กก. สูงสุด 10 กก.; สมรรถนะทางกายภาพยังไม่ได้รับการตรวจสอบ | [เว็บไซต์](https://pui89.github.io/nomad.html) |
 | [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | แนวคิดรถ SUV ขนาดกลางสำหรับตลาดโลก ประเมินระบบ HEV เป็นลำดับแรก พร้อมซอฟต์แวร์ AI ที่ไม่ผูกกับระบบขับเคลื่อนและทำหน้าที่ให้คำแนะนำเท่านั้น | [เว็บไซต์](https://pui89.github.io/ai-global-suv.html) |
 | [PUI89 AI Step-Through Scooter](https://github.com/Pui89/AI-Step-Through-Scooter) | ระบบอัจฉริยะเพื่อผู้ขับขี่และการวิจัยการรับรู้สภาพถนน | [เว็บไซต์](https://pui89.github.io/ai-robot-motorcycle.html) |
 
@@ -154,6 +154,6 @@ PUI89 เปิดรับการติดต่อจากบริษั�
 
 ## อัปเดตพอร์ตและงานวิจัย — 28 พฤศจิกายน 2026
 
-พอร์ตปัจจุบันประกอบด้วยผลิตภัณฑ์ที่ดำเนินการอยู่ 6 รายการ ดู [PUI89 Portfolio Source of Truth v1.3](https://github.com/Pui89/Pui89.github.io/blob/main/PUI89_PORTFOLIO_SOURCE_OF_TRUTH_V1.3.md) สำหรับชื่อมาตรฐานและขอบเขตการออกแบบ/วิจัยล่าสุด AI HOME มีเป้าหมายน้ำหนักรวม 4–6 กก. (สูงสุด 10 กก.) ส่วน AI NOMAD มีเป้าหมายประมาณ 7 กก. (สูงสุด 10 กก.) ทั้งหมดเป็นเป้าหมายการออกแบบที่ยังไม่ได้วัดจากต้นแบบจริง
+พอร์ตปัจจุบันประกอบด้วยผลิตภัณฑ์ที่ดำเนินการอยู่ 6 รายการ ดู [PUI89 Portfolio Source of Truth v1.3](https://github.com/Pui89/Pui89.github.io/blob/main/PUI89_PORTFOLIO_SOURCE_OF_TRUTH_V1.3.md) สำหรับชื่อมาตรฐานและขอบเขตการออกแบบ/วิจัยล่าสุด AI HOME มีเป้าหมายน้ำหนักรวม 4–6 กก. (สูงสุด 10 กก.) ส่วน AI NOMAD มีเป้าหมายประมาณ 7 กก. (สูงสุด 10 กก.) รูปทรงเป็นกระเป๋าเดินทางตั้งระดับพรีเมียมแบบไม่โดดเด่น ใช้ล้อ 4 ล้อและด้ามจับยืดหดได้ ทั้งหมดเป็นเป้าหมายการออกแบบที่ยังไม่ได้วัดจากต้นแบบจริง
 
 ความต้องการวิจัยของ AI Global SUV คือ RWD-first พร้อมความสามารถ AWD, Full HEV และเป้าหมายระยะลุยน้ำ 700 มม. ซึ่งยังไม่ใช่สเปกรถที่ผ่านการยืนยัน กรอบ [BOM และต้นทุนต้นแบบสองภาษา](https://github.com/Pui89/PUI89-Research/tree/main/docs) กำหนดให้ราคาที่ยังไม่มีหลักฐานเป็น TBD และต้องมีข้อมูลชิ้นส่วน/แหล่งกำเนิด/ใบเสนอราคาที่ตรวจสอบได้
