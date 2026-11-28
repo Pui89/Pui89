@@ -58,10 +58,10 @@ Cross-project engineering priorities include evidence traceability, uncertainty-
 | Product | Focus | Project page |
 |---|---|---|
 | [Coconut Harvest AI](https://github.com/Pui89/Coconut-Harvest-AI) | Coconut maturity assessment, visual perception and harvesting-robot research | [Website](https://pui89.github.io/coconut.html) |
-| [PUI89 Sentinel — All-Terrain Inspection Robot](https://github.com/Pui89/PUI89-All-Terrain-Inspection-Robot) | Four-legged quadruped inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
+| [PUI89 Sentinel — All-Terrain Inspection Robot Dog](https://github.com/Pui89/PUI89-All-Terrain-Inspection-Robot) | Four-legged quadruped inspection concept, environmental awareness and human-supervised evidence capture | [Website](https://pui89.github.io/sentinel.html) |
 | [PUI89 AI HOME](https://github.com/Pui89/AI-Home-Safety-Robot) | Indoor home-condition awareness and evidence-led assistance | [Website](https://pui89.github.io/home.html) |
-| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Compact dog-inspired four-wheel mobile-assistant concept with integrated handle; preliminary 8–10 kg target, 10 kg maximum; physical performance not validated | [Website](https://pui89.github.io/nomad.html) |
-| [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | Medium-size global SUV concept; HEV-first evaluation with powertrain-neutral, advisory-only AI software | [Website](https://pui89.github.io/ai-global-suv.html) |
+| [PUI89 AI NOMAD](https://github.com/Pui89/AI-Mobile-Assistant-Robot) | Compact dog-inspired four-wheel mobile-assistant concept with integrated handle; approximately 7 kg target, 10 kg maximum; physical performance not validated | [Website](https://pui89.github.io/nomad.html) |
+| [PUI89 AI Global SUV](https://github.com/Pui89/PUI89-AI-Global-SUV) | Medium-size global SUV concept; RWD-first with AWD capability and Full HEV are current research preferences; advisory-only AI software | [Website](https://pui89.github.io/ai-global-suv.html) |
 | [PUI89 AI Step-Through Scooter](https://github.com/Pui89/AI-Step-Through-Scooter) | Rider-centred mobility intelligence and road-awareness research | [Website](https://pui89.github.io/ai-robot-motorcycle.html) |
 
 **Portfolio boundary:** PUI89 has exactly six active products. Shared AI Core supports these products as common engineering infrastructure and is not counted as a product. Flood and road-water awareness may appear as advisory requirements within relevant mobility products, not as a separate product.
@@ -137,3 +137,10 @@ PUI89's active portfolio contains six products. Shared AI Core is shared enginee
 Maturity describes documented development state, not commercial readiness. No physical prototype, integrated hardware, field validation, certification or production capability is implied. Concept art, simulation and passing software tests are not physical-performance evidence. Do not publish readiness percentages without a current, traceable evidence register.
 
 **Latest dated evidence note:** Coconut Harvest AI's 24 November repository update records dataset split-isolation checks, public image-source research and a blank field-discovery register. It does not establish an approved training dataset, completed human annotation, a trained/evaluated PUI89 model, accuracy metrics or a working harvesting robot.
+
+
+## Portfolio and research update — 28 November 2026
+
+The current portfolio comprises six active products. [PUI89 Portfolio Source of Truth v1.3](https://github.com/Pui89/Pui89.github.io/blob/main/PUI89_PORTFOLIO_SOURCE_OF_TRUTH_V1.3.md) records the canonical identities and current design/research boundaries. AI HOME's proposed complete-system mass target is 4–6 kg (10 kg maximum); AI NOMAD's proposed target is approximately 7 kg (10 kg maximum). These are unmeasured design targets.
+
+AI Global SUV research preferences are RWD-first with AWD capability, Full HEV and a 700 mm wading-depth target; these are not validated vehicle specifications. The bilingual [prototype BOM and cost framework](https://github.com/Pui89/PUI89-Research/tree/main/docs) keeps unsupported prices as TBD and requires exact part/origin/quotation evidence.
